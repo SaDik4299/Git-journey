@@ -1,5 +1,3 @@
 333
 Sqrt(9)
 sqrt(sqrt(81))
-
-hello 3!
